@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-BLEHeartRateLogger.egg-info/PKG-INFO
-BLEHeartRateLogger.egg-info/SOURCES.txt
-BLEHeartRateLogger.egg-info/dependency_links.txt
-BLEHeartRateLogger.egg-info/entry_points.txt
-BLEHeartRateLogger.egg-info/requires.txt
-BLEHeartRateLogger.egg-info/top_level.txt
